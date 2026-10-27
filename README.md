@@ -305,10 +305,6 @@ Arya Rajan Zad
 - GitHub: https://github.com/aryazad-28
 - LinkedIn: www.linkedin.com/in/arya-zad
 
-Replace the placeholders with your actual profiles before publishing.
-
----
-
 <div align="center">
 
 **Built at the intersection of embedded systems, data engineering, and applied AI.**
