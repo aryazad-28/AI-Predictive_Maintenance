@@ -1,0 +1,7 @@
+
+# Runtime dependencies for the dashboard and live sensor pipeline
+numpy>=1.26,<3.0
+pandas>=2.1,<4.0
+plotly>=5.18,<7.0
+pyserial>=3.5,<4.0
+streamlit>=1.40,<2.0
